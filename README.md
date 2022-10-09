@@ -1,1 +1,2 @@
 ## HTML-TEMPLATE
+This template includes libaries such as `AOS, BOOTSTRAP (4.6), ANIMATE.CSS, FONTAWESOME, JQUERY, POPPER.JS (BOOSTRAP USAGE)`
